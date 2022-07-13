@@ -69,5 +69,6 @@ while(gengarHP > 0){
     };
     
 };
+let newPokemon = "Pikachu";
 
 
